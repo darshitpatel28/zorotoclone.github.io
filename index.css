@@ -200,3 +200,11 @@ body{
         left: 10%;
     }
 }
+
+@media only screen and (max-width: 600px) {
+    .site-btn{
+        width: 80vw;
+        height: 5vh;
+        font-size: 16px;
+    }
+}
